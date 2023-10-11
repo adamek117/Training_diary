@@ -1,4 +1,4 @@
 # trainining_diary
 Training diary 
-Flutter Dart
+Aplikacja mobilna utworzona z wykorzystaniem Flutter.
 
